@@ -1,0 +1,10 @@
+numpy
+torch
+torchvision
+scikit-learn
+langchain
+langchain-openai
+langchain-community
+chromadb
+python-dotenv
+pypdf
